@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-healthcare-dev-212658-authRole",
+      "UnauthRoleArn": "arn:aws:iam::557715531417:role/amplify-healthcare-dev-212658-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::557715531417:role/amplify-healthcare-dev-212658-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-healthcare-dev-212658-deployment",
+      "UnauthRoleName": "amplify-healthcare-dev-212658-unauthRole",
+      "StackName": "amplify-healthcare-dev-212658",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:557715531417:stack/amplify-healthcare-dev-212658/9d98f350-bf23-11ec-bad0-0678b4b0e0ce",
+      "AmplifyAppId": "d3tltmbmia3qny",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-healthcare-dev-212658-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "healthcared4a02eaa": {},
+        "true": {}
+      },
+      "function": {
+        "reactrestauth": {
+          "deploymentBucketName": "amplify-healthcare-dev-212658-deployment",
+          "s3Key": "amplify-builds/reactrestauth-736e4d6a534f59593834-build.zip"
+        }
+      }
+    }
+  }
+}
